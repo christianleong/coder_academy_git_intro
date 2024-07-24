@@ -35,7 +35,7 @@ here
 `bye`
 
 ```py
-print("Hello World!")
+print("Bye World!")
 ```
 
 ```js
