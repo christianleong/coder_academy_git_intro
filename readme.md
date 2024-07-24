@@ -32,7 +32,7 @@ some codes
 here
 ``
 
-`hello`
+`bye`
 
 ```py
 print("Hello World!")
